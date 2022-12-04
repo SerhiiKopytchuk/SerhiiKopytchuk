@@ -9,6 +9,38 @@
 
 - 📫 How to reach me **kopytchukserhii@gmail.com**
 
+### 🛠️ Skils:
+
+~ English B1+
+
+~ Swift
+
+~ UIKit/SwiftUI
+
+~ API, JSON
+
+~ Multithreading, GCD, async/await
+
+~ Realm, UserDefaults, Disk storage, Firebase (Storage, firestore, realtime database)
+
+~ Cocoapods, SPM
+
+~ MVC, MVVM
+
+~ OOP, SOLID
+
+~ Core animation
+
+~ Firebase
+
+~ UITests
+
+### 🎓 Education:
+
+**University:** Sep. 20221 - Current: National Technical University of Ukraine. Computer - Information systems and technologies
+
+**EPAM University:** iOS Summer Course 2022
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/serhii kopytchuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhii kopytchuk" height="30" width="40" /></a>
