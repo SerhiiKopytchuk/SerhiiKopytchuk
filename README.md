@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my own chat](https://github.com/SerhiiKopytchyk/Chat)
 
-- 🌱 I’m currently learning **Combine**
+- 🌱 I’m currently learning **Algoritms**
 
 - 📫 How to reach me **kopytchukserhii@gmail.com**
 
