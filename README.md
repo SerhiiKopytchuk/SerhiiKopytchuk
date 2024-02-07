@@ -11,7 +11,7 @@
 
 ### 🛠️ Skils:
 
-~ English B1+
+~ English B2
 
 ~ Swift
 
