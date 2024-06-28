@@ -1,39 +1,9 @@
 <h1 align="center">Hi 👋, I'm Serhii</h1>
 <h3 align="center">Junior iOS Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serhiikopytchyk&label=Profile%20views&color=0e75b6&style=flat" alt="serhiikopytchyk" /> </p>
-
-- 🔭 I’m currently working on [my own chat](https://github.com/SerhiiKopytchyk/Chat)
-
 - 🌱 I’m currently learning **Algoritms**
 
 - 📫 How to reach me **kopytchukserhii@gmail.com**
-
-### 🛠️ Skils:
-
-~ English B2
-
-~ Swift
-
-~ UIKit/SwiftUI
-
-~ API, JSON
-
-~ Multithreading, GCD, async/await
-
-~ Realm, UserDefaults, Disk storage, Firebase (Storage, firestore, realtime database)
-
-~ Cocoapods, SPM
-
-~ MVC, MVVM
-
-~ OOP, SOLID
-
-~ Core animation
-
-~ Firebase
-
-~ UITests
 
 ### 🎓 Education:
 
