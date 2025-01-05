@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serhii</h1>
-<h3 align="center">iOS Developer</h3>
+<h3 align="center">iOS Software engineer</h3>
 
 - 🌱 I’m currently learning **Algoritms**
 
