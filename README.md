@@ -7,9 +7,7 @@
 
 ### 🎓 Education:
 
-**University:** Sep. 2022 - Current: National Technical University of Ukraine. Computer - Information systems and technologies
-
-**EPAM University:** iOS External Program 2022 [certificate](https://certificates.epam.com/certificates/deed122b-c213-416f-96e0-38b10227f48c)
+**University:** Sep. 2022 - Jun. 2025: National Technical University of Ukraine. Computer - Information systems and technologies 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
